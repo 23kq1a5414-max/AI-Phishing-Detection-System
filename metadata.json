@@ -1,0 +1,6 @@
+{
+  "name": "AI Phishing Detection & Cyber Safety Assistant",
+  "description": "Enterprise-grade defensive AI cybersecurity system analyzing URLs and text for phishing risks with explainable AI and safety recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

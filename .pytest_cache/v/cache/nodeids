@@ -1,0 +1,8 @@
+[
+  "tests/test_phishing_detector.py::test_ml_synthetic_dataset_shape",
+  "tests/test_phishing_detector.py::test_shannon_entropy_calculation",
+  "tests/test_phishing_detector.py::test_text_preprocessing_benign",
+  "tests/test_phishing_detector.py::test_text_preprocessing_phishing_urgency_and_credentials",
+  "tests/test_phishing_detector.py::test_url_feature_extraction_legitimate",
+  "tests/test_phishing_detector.py::test_url_feature_extraction_suspicious"
+]
